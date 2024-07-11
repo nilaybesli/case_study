@@ -16,6 +16,7 @@ This project uses Flask and PostgreSQL to dynamically enter and display sales da
 
 
 
+
 Database Models:
 
 -Customer
@@ -25,6 +26,8 @@ Database Models:
 -Duration
 
 -Sales
+
+
 
 
 
@@ -39,6 +42,8 @@ Endpoints:
 /product (GET): To get product data.
 
 /duration (GET): To get duration data.
+
+
 
 
 
