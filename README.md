@@ -17,21 +17,35 @@ This project uses Flask and PostgreSQL to dynamically enter and display sales da
 
 
 Database Models:
+
 -Customer
+
 -Product
+
 -Duration
+
 -Sales
 
 
+
 Endpoints:
+
 /sales (POST): To add a new sale.
+
 /sales-data (GET): To query sales data.
+
 /customer (GET): To retrieve customer data.
+
 /product (GET): To get product data.
+
 /duration (GET): To get duration data.
 
 
+
 Static and Template Files:
+
 HTML: templates/index.html
+
 CSS: static/style.css
+
 JavaScript: static/script.js
